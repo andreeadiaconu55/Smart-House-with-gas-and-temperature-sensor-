@@ -49,3 +49,15 @@ During testing, the fan module was powered separately using two AAA batteries in
 The project model includes a cardboard house with a sliding door attached to the servo motor, ensuring stable movement with wooden guides. The fan module simulates an air conditioning unit.
 
 The code was implemented in Arduino IDE and it is attached in the repository.
+
+Here is a demo for the project: 
+
+* Temperature sensor reaction
+
+
+https://github.com/andreeadiaconu55/Smart-House-with-gas-and-temperature-sensor-/assets/132846833/28f034bb-3985-467b-b457-26a17b2afc75
+
+* Gas sensor reaction
+
+https://github.com/andreeadiaconu55/Smart-House-with-gas-and-temperature-sensor-/assets/132846833/7a2621c1-79d6-4f7c-9567-861374c2b651
+
