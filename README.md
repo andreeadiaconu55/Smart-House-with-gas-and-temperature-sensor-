@@ -47,3 +47,5 @@ The LCD displays "hot" or "cold" based on the temperature, along with the measur
 During testing, the fan module was powered separately using two AAA batteries in series, as the 5V supply from the board was insufficient. Resistors were used to protect LEDs and buttons.
 
 The project model includes a cardboard house with a sliding door attached to the servo motor, ensuring stable movement with wooden guides. The fan module simulates an air conditioning unit.
+
+The code was implemented in Arduino IDE and it is attached in the repository.
